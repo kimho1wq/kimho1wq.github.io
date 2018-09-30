@@ -9,7 +9,7 @@ comments: true
 
 ## 백준 1002 터렛 문제 풀이
 -------------------
-문제 링크 : https://www.acmicpc.net/problem/1002
+문제 링크 : [https://www.acmicpc.net/problem/1002](https://www.acmicpc.net/problem/1002)
 
  두 원이 만나는 점의 갯수 찾기 문제
 
