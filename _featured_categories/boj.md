@@ -1,10 +1,11 @@
 ---
 layout: list
-title: Documents
-slug: doc
+title: BOJ
+slug: boj
 menu: true
 submenu: true
-order: 7
+order: 8
 description: >
-  문서.
+  Beakjoon algorithm
+
 ---
