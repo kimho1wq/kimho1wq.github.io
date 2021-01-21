@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "" #"S. B. Blog"
+title                    : "S.B.blog" #"S. B. Blog"
 title_separator          : "-"
 subtitle                 : "" #"주니어 백엔드 개발자의 첫걸음"
 name                     : "Seung-bin Kim"
