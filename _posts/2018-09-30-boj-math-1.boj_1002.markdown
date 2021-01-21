@@ -1,10 +1,10 @@
 ---
-layout: post
 title: "[BOJ] 1002 터렛"
-subtitle: "1002 터렛"
-categories: boj
-tags: math
-comments: true
+excerpt: "백준 1002 터렛"
+categories:
+  - boj
+tags:
+  - math
 ---
 
 ## 백준 1002 터렛

@@ -1,11 +1,12 @@
 ---
-layout: post
 title: "[BOJ] 1003 피보나치 함수"
-subtitle: "1003 피보나치 함수"
-categories: boj
-tags: dp
-comments: true
+excerpt: "백준 1003 피보나치 함수"
+categories:
+  - boj
+tags:
+  - dp
 ---
+
 
 ## 백준 1003 피보나치 함수
 -------------------
